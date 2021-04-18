@@ -1,7 +1,7 @@
 # Work-Day-Schedule
 
 
-Schedule Link: https://chengyud.github.io/Work-Day-Schedule/index.html
+Schedule Link: https://chengyud.github.io/Work-Day-Schedule/
 
 
 HTML:
@@ -28,5 +28,6 @@ Set up function to refelct color code of time blocks comparing to current time.
 
 
 Web Image:
-![image](https://user-images.githubusercontent.com/80147201/115134126-69a7ab80-9fc2-11eb-93a4-ea20e1388c7c.png)
+![image](https://user-images.githubusercontent.com/80147201/115134207-f9e5f080-9fc2-11eb-9390-af319ecc09b0.png)
+
 ![image](https://user-images.githubusercontent.com/80147201/115134151-98be1d00-9fc2-11eb-85e3-006ce04e4468.png)

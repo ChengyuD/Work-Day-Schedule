@@ -40,7 +40,7 @@
     border-bottom: 10px solid black;
   }
   
-  .text {
+  textarea {
     white-space: pre-wrap;
   }
   
@@ -80,13 +80,13 @@
     color: white;
   }
   
-  .saveBtn {
+  button {
     border-radius: 10px;
     background-color: #6587c5;
     color: white;
   }
   
-  .saveBtn i:hover {
+  .button i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
@@ -101,7 +101,7 @@
       padding-right: 15%;
     }
   
-    .saveBtn {
+    button {
       height: 50px;
     }
   

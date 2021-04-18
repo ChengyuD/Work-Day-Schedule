@@ -30,4 +30,5 @@ Set up function to refelct color code of time blocks comparing to current time.
 Web Image:
 ![image](https://user-images.githubusercontent.com/80147201/115134207-f9e5f080-9fc2-11eb-9390-af319ecc09b0.png)
 
-![image](https://user-images.githubusercontent.com/80147201/115134151-98be1d00-9fc2-11eb-85e3-006ce04e4468.png)
+![image](https://user-images.githubusercontent.com/80147201/115134228-2863cb80-9fc3-11eb-886e-f50aa1192f27.png)
+
